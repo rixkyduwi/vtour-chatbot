@@ -1,0 +1,289 @@
+{
+  "id": 134,
+  "intents": [
+    {
+      "context_set": "",
+      "patterns": [
+        "Hai ",
+        "Hello",
+        "Good",
+        "hallo"
+      ],
+      "responses": [
+        "Hai selamat datang Di virtual tour tegal. saya adalah tour guide virtual anda. apa ada yang bisa saya bantu ?"
+      ],
+      "tag": "hai"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "apa itu tempat wisata guci?",
+        "deskripsi guci",
+        "dimana guci?"
+      ],
+      "responses": [
+        "tempat wisata guci adalah pemaindian air panas yang dibuka untuk umum dengan tarif murah hanya 10rb/ orang yang berada di kaki Gunung Slamet. Alamat Wisata Guci Tegal berada di Desa Guci, Kecamatan Bumijawa, Kabupaten Tegal, maps => https://goo.gl/maps/vwfu2ZQDF4Z5QHrh8  "
+      ],
+      "tag": "guci"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "apa sejarah tempat wisata guci?",
+        "sejarah guci",
+        "apa saja sejarah guci?",
+        "bagaimana terbentuknya guci?",
+        "asal muasal guci",
+        "asal usul guci",
+        "apa nilai sejarah guci?"
+      ],
+      "responses": [
+        "Objek Wisata Guci bermula setelah ditemukannya sumber mata air (bahasa jawa: tuk) di Desa Guci dan diteliti tidak mengandung racun. Maka pada tahun 1974 pemandian air panas dibuka untuk umum dengan fasilitas yang masih alami dan belum dibuat seperti sekarang ini, wisatawan masih mandi di bawah gua sumber mata air panas yang konon tempat itu merupakan daerah kekuasaan dayang Nyai Roro Kidul yang bertugas di wilayah sungai sebelah utara Gunung Slamet atau lebih dikenal Kali Gung. Dinamakan Kali Gung sebab bersinggungan dengan mata air yang agung yakni aliran mata air panas yang melimpah sepanjang tahun, dayang Nyai Roro Kidul bernama Nyai Rantensari yang berwujud naga maka di Pancuran 13 tersebut dibuat Patung Naga untuk mengingatkan akan daya mistis yang ada dikawasan Objek Wisata Guci.",
+        "Di kawasan tersebut juga terdapat pohon beringin dan pohon karet yang sudah ratusan tahun yang konon ditanam oleh keturunan Kyai Klitik yang bernama Eyang Sudi Reja dan Mbah Abdurahim pada tahun 1918. Dengan maksud agar daerah tersebut tidak mudah longsor, kuat serta rindang. Sampai sekarang pemandian air panas Guci menyimpan misteri kegaibannya sebab merupakan peninggalan para wali terdahulu penyebar agama islam, dan masih banyak tempat – tempat yang menyimpan sejarah seperti petilasan Kyai Mustofa dan makamnya di Pekaringan berjarak 5 KM dar Desa Guci, Kyai Mustofa adalah seorang ulama keturunan kanjeng Sunan Gunungjati yang syiar Islam kemudian bertapa di Desa Guci pada zaman cucu Kyai Klitik.",
+        "Ulama inilah yang memberi nama air terjun di sebelah atas Pemandian Pancuran 13 yaitu Curug Serwiti sebab banyak muncul burung serwiti dan diatas curug itu ada lagi sebuah curug yang indah bernama Curug Jedor yang tidak pernah diketahui asal muasal nama tersebut."        
+      ],
+      "tag": "sejarah guci"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "mitos guci",
+        "legenda guci",
+        "apa saja mitos guci?",
+        "apa saja legenda guci?",
+        "apa saja mitos/legenda guci?"
+      ],
+      "responses": [
+        "Objek wisata ini biasanya ramai dikunjungi pada malam Jumat Kliwon. Banyak orang yang ngalap berkah. Konon, kalau mandi pada pukul 12 malam dengan memohon sesuatu, permohonan apapun akan dikabulkan. Kepercayaan ini sudah turun-temurun.",
+        "Diceritakan air panas Guci adalah air yang diberikan Walisongo kepada orang yang mereka utus untuk menyiarkan agama Islam ke Jawa Tengah bagian barat di sekitar Tegal. Karena air itu ditempatkan di sebuah guci (poci), dan berkhasiat mendatangkan berkat, masyarakat menyebut lokasi pemberian air itu dengan nama Guci. Tapi karena air pemberian wali itu sangat terbatas, pada malam Jumat Kliwon, salah seorang sunan menancapkan tongkat saktinya ke tanah. Atas izin Tuhan, mengalirlah air panas tanpa belerang yang penuh rahmat ini."
+      ],
+      "tag": "mitos / legenda guci"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+        "ada berapa spot wisata di guci?",
+        "wahana apa saja yang ada di guci?",
+        "spot apa saja yang ada di guci?"
+      ],
+      "responses": [
+        "spot wisata di guci ada 6 yaitu:",
+        "1. Guciku",
+        "2. Pancuran 13",
+        "3. Pancuran 5",
+        "4. Pasar Suvenir",
+        "5. Pemandian Tertutup",
+        "6. Baron Hill",
+        "7. Geong "      
+      ],
+      "tag": "spot guci"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa itu tempat wisata cempaka?",
+          "deskripsi cempaka",
+          "dimana cempaka?"
+        ],
+      "responses": [
+        "desa cempaka,kecamatan bumijawa kabupaten tegal,jawa tengah merupakan salah satu desa yang memiliki tempat wisata terkenal yaitu pasar slumpring, pasar tradisional yang menyediakan jajanan tradisional jaman dulu dan",
+        "kebudayaan kuno yaitu menggunakan koin sebagai mata uangnya, anda dapat membeli koin tersebut dimana 1 koin setara dengan harga Rp.2.500,00."
+      ],
+      "tag": "cempaka"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa sejarah tempat wisata cempaka?",
+          "sejarah cempaka",
+          "apa saja sejarah cempaka?",
+          "bagaimana terbentuknya cempaka?",
+          "asal muasal cempaka",
+          "asal usul cempaka",
+          "apa nilai sejarah cempaka?"
+        ],
+      "responses": [
+        "Salah satu spot desa cempaka yaitu Tuk Mudal, Konon, dibangun oleh utusan kerajaan Mataram untuk membuat sebuah desa diawali dengan penataan irigasi pertanian dan tempat pesucen warga baik berwudhu. Tuk Mudal dikelilingi oleh tujuh mata air dan saat ini digunakan untuk mengairi 130 hektar persawahan di Desa Cempaka. Hingga saat ini juga masyarakat setempat masih bergotong royong untuk menjaga sumber mata air ini dengan membangun tembok melingkar di areal mata air agar tidak mengalami pendangkalan. "
+      ],
+      "tag": "sejarah cempaka"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "ada berapa spot wisata di cempaka?",
+          "wahana apa saja yang ada di cempaka?",
+          "spot apa saja yang ada di cempaka?"
+        ],
+      "responses": [
+        "1. Pasar Slumpring",
+        "2. Tuk Medal",
+        "3. Tuk Putri",
+        "4. Mata Air",
+        "5. Batu Lumpring",
+        "6. Pohon Besar",
+        "7. Pemakaman"
+      ],
+      "tag": "spot cempaka"
+    },      
+    {
+      "context_set": "",
+      "patterns": [
+          "apa itu tempat wisata sindang kemadu?",
+          "deskripsi sindang kemadu",
+          "dimana sindang kemadu?"
+        ],
+      "responses": [
+        "Sindang Kemadu terletak di Desa Muncanglarang, Kecamatan Bumijawa, objek wisata ini menawarkan berbagai wahana yang menarik hingga menantang.Objek wisata ini terbilang baru. Kendati sudah dirintis sejak 2013 lalu, Sindang Kemadu baru diresmikan oleh Pemkab Tegal pada akhir 2016.", 
+        "Wisata ini juga menyediakan area outbond yang bernama Alun-Alun Sindang Kemadu dengan tempat yang cukup luas sehingga pengunjung bisa bermain permainan outbond seperti Fun Outing,Family Gathering,Camping dan masih banyak lagi."
+      ],
+      "tag": "sindang kemadu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa sejarah tempat wisata sindang kemadu?",
+          "sejarah sindang kemadu",
+          "apa saja sejarah sindang kemadu?",
+          "bagaimana terbentuknya sindang kemadu?",
+          "asal muasal sindang kemadu",
+          "asal usul sindang kemadu",
+          "apa nilai sejarah sindang kemadu?"
+        ],
+      "responses": [
+        "Sebelum ditetapkannya sebagai tempat wisata, tempat ini banyak warga yang memanfaatkan sindang kemadu untuk mencuci dan mandi. “Tapi sejak 2013, warga dan kepala desa di sini memperbaiki agar jadi objek wisata."
+      ],
+      "tag": "sejarah sindang kemadu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "mitos sindang kemadu",
+          "legenda sindang kemadu",
+          "apa saja mitos sindang kemadu?",
+          "apa saja legenda sindang kemadu?",
+          "apa saja mitos/legenda sindang kemadu?"
+        ],
+      "responses": [
+        ""
+      ],
+      "tag": "mitos / legenda sindang kemadu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "ada berapa spot wisata di sindang kemadu?",
+          "wahana apa saja yang ada di sindang kemadu?",
+          "spot apa saja yang ada di sindang kemadu?"
+        ],
+      "responses": [
+        "1. Telaga",
+        "2. Kolam Renang",
+        "3. Perahu Bebek",
+        "4. Area Outbond",
+        "5. Penangkaran Kijang",
+        "6. Ruang Pertemuan"
+      ],
+      "tag": "spot sindang kemadu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa itu tempat wisata sawah batu?",
+          "deskripsi sawah batu",
+          "dimana sawah batu?"
+        ],
+      "responses": [
+        "Sawah Batu adalah tempat wisata alam baru yang terletak di desa bukateja kec balapulang kab tegal, berdiri sejak tahun 2020, sawah batu memiliki spot spot yang banyak yaitu kolam renang, meeting hall, pasar sawah batu, budidaya rusa, lapangan terbuka untuk konser / event besar lainnya"
+      ],
+      "tag": "sawahbatu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa sejarah tempat wisata sawah batu?",
+          "sejarah sawah batu",
+          "apa saja sejarah sawah batu?",
+          "bagaimana terbentuknya sawah batu?",
+          "asal muasal sawah batu",
+          "asal usul sawah batu",
+          "apa nilai sejarah sawah batu?"
+        ],
+      "responses": [
+        "Di desa Bukateja terdapat area persawahan yang sangat luas terbentang, dengan total luasan hampir  83 hektar. Lebih dari 500 orang warga Desa Bukateja mencari penghidupan di bidang pertanian, hal ini menunjukkan bahwa sawah adalah salah satu sumber kehidupan utama bagi desa berpenduduk 872 KK ini.",
+        "Karena Desa Bukateja merupakan salah satu ujung terjauh sebaran batuan geologi dari aktivitas vulkanik Gunung Slamet, maka tidak heran bebatuan sisa-sisa vulkanik ini tersebar luas di sepanjang area desa, baik di permukaan tanah maupun di bawah lapisan tanah, termasuk di area persawahan.",
+        "Dalam menggarap sawahnya, warga selalu menjumpai bebatuan dalam jumlah yang tidak sedikit dengan berbagai ukuran. Untuk batu-batuan yang tidak terlalu besar, batu-batuan ini akan ditata ditumpuk rapi sedemikian rupa dimanfaatkan sebagai pematang sawah. Untuk batu-batuan berukuran besar biasanya akan dibiarkan saja di sawah, atau dipecah-pecah menjadi ukuran yang lebih kecil, untuk dimanfaatkan sebagai bahan bangunan",
+        "Sawah dengan pematang dari tanah dan tatanan batu-batuan sisa aktivitas vulkanik yang terlihat unik ini menjadi ciri khas hamparan sawah di desa Bukateja dan beberapa desa sekitarnya. Karena itu lahirlah gagasan 'branding desa' dengan sebutan 'Sawah Batu', sebagai sebuah identitas yang menggambarkan karakteristik alam yang spesifik di Desa Bukateja"
+      ],
+      "tag": "sejarah sawahbatu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "ada berapa spot wisata di sawah batu?",
+          "wahana apa saja yang ada di sawah batu?",
+          "spot apa saja yang ada di sawah batu?"
+        ],
+      "responses": [
+        "1. perkebunan",
+        "2. lapangan terbuka untuk konser/ event besar",
+        "3. pasar sawah batu",
+        "4. gazebo",
+        "5. kolam renang",
+        "6. penangkaran rusa",
+        "7. meeting hall"
+      ],
+      "tag": "spot sawahbatu"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa itu tempat wisata sigedong?",
+          "deskripsi sigedong",
+          "dimana sigedong?"
+        ],
+      "responses": [
+        "Desa wisata sigedong merupakan salah satu desa wisata yang ada di Tegal yang terletak di daerah lereng gunung slamet di kecamatan Bumi jawa, Kabupaten Tegal. Destinasi wisata tegal ini yang satu ini terkenal akan pesona alam pedesaanya yang masih alami dan asri, serta panorama yang indah di mana dikelilingi oleh bukit-bukit yang mampu memukau para wisatawan. Jaraknya kurang lebih sepuluh kilometer ke arah selatan dari obyek wisata Guci.          "
+      ],
+      "tag": "sigedong"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apa sejarah tempat wisata sigedong?",
+          "sejarah sigedong",
+          "apa saja sejarah sigedong?",
+          "bagaimana terbentuknya sigedong?",
+          "asal muasal sigedong",
+          "asal usul sigedong",
+          "apa nilai sejarah sigedong?"
+        ],
+      "responses": [
+        "80% Masyarakat desa sigedong bekerja sebagai petani dan mengolah lahan kebunya untuk ditanami sayur-sayuran. Menurunnya permintaan pasar dan anjoknya harga jual sayuran di tingkat petani selama masa pandemi Covid-19 menjadikan petani hidup dalam kesusahan. Tak terkecuali para petani sayur di Desa Sigedong, Kecamatan Bumijawa yang membiarkan sebagian tanamannya membusuk di lahan pertanian akibat ongkos produksi yang tidak seimbang dengan hasil penjualan."
+      ],
+      "tag": "sejarah sigedong"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "ada berapa spot wisata di sigedong?",
+          "wahana apa saja yang ada di sigedong?",
+          "spot apa saja yang ada di sigedong?"
+        ],
+      "responses": [
+        "1. Petik Sayur",
+        "2. Oemah Pinus"
+      ],
+      "tag": "spot sigedong"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          "apakah ini krusty crab?"
+        ],
+      "responses": [
+        "bukan petrick, ini ̶k̶e̶l̶p̶ ̶s̶h̶a̶k̶e̶  MIXUE"
+      ],
+      "tag": "random question"
+    }
+  ]
+}
