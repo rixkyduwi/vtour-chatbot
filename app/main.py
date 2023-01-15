@@ -19,6 +19,9 @@ WTF_CSRF_SECRET_KEY="dudu rohosio"
 CORS(app)
 @app.route('/')
 def index():
+  return "<h1>hello world</h1>"
+@app.route('/json')
+def index():
   return jsonify('{"stauts":200,"description":"hello world"}')
 @app.route('/get')
 def method_name():
