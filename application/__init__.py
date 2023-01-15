@@ -21,7 +21,7 @@ CORS(app)
 def index():
   return "<h1>hello world</h1>"
 @app.route('/json')
-def json():
+def defjson():
   return jsonify('{"stauts":200,"description":"hello world"}')
 @app.route('/get')
 def method_name():
