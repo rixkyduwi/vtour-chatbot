@@ -1,4 +1,4 @@
-from flask import Flask, request
+from flask import Flask, request, jsonify
 from flask_cors import CORS
 import numpy
 import tflearn
@@ -17,6 +17,9 @@ SECRET_KEY="powerful secretkey",
 WTF_CSRF_SECRET_KEY="dudu rohosio"
     ))
 CORS(app)
+@app.route('/')
+def index():
+  return jsonify('{"stauts":200,"description":"hello world"}')
 @app.route('/get')
 def method_name():
   userText = request.args.get('msg')
