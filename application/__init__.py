@@ -36,7 +36,7 @@ except:
   docs_x = []
   docs_y = []
 
-data = json.loads(open('application/content.json').read())
+data = json.loads(open('app/application/content.json').read())
 with open("data.pickle", "wb") as f:
     pickle.dump((words, labels, training, output), f)
 net = tflearn.input_data(shape=[None, len(training[0])])
