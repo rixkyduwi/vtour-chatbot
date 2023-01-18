@@ -284,6 +284,25 @@
         "bukan petrick, ini ̶k̶e̶l̶p̶ ̶s̶h̶a̶k̶e̶  MIXUE"
       ],
       "tag": "random question"
+    },
+    {
+      "context_set": "",
+      "patterns": [
+          ""
+        ],
+      "responses": [
+        "coba pertanyaan lain"
+      ],
+      "tag": "Aplikasi"
+    },    {
+      "context_set": "",
+      "patterns": [
+          "apakah ini krusty crab?"
+        ],
+      "responses": [
+        "error coba pertanyaan lain"
+      ],
+      "tag": "error"
     }
   ]
 }

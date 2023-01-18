@@ -22,7 +22,7 @@ def index():
   return "<h1>hello world</h1>"
 @app.route('/json')
 def defjson():
-  return jsonify('{"stauts":200,"description":"hello world"}')
+  return jsonify({"status":200,"description":"hello world"})
 @app.route('/get')
 def method_name():
   userText = request.args.get('msg')
@@ -67,8 +67,6 @@ def chat(msg):
     for tg in data["intents"]:
       if tg['tag'] == tag:
         responses = tg['responses']
-        return random.choice(responses)
-    print(tag)
-    print(random.choice(responses))
-    return random.choice(responses)
+    print(responses)
+    return responses
 
