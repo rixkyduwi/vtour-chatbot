@@ -12,6 +12,10 @@ lemmatizer = WordNetLemmatizer()
 intents = json.loads(open('application/content.json').read())
 UPLOAD_FOLDER = 'application/static/upload/'
 app = Flask(__name__)
+from dotenv import load_dotenv
+load_dotenv()
+import os
+SECRET_KEY = os.getenv("MY_SECRET")
 app.config.update(dict(
 SECRET_KEY="powerful secretkey",
 WTF_CSRF_SECRET_KEY="dudu rohosio"
