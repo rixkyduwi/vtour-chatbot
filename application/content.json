@@ -297,7 +297,7 @@
     },    {
       "context_set": "",
       "patterns": [
-          "apakah ini krusty crab?"
+          ""
         ],
       "responses": [
         "error coba pertanyaan lain"
