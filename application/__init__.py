@@ -5,7 +5,7 @@ import tflearn
 import tensorflow
 import nltk,pickle,json,random;#nltk.download('popular')
 nltk.data.path.append('./nltk_data/')
-nltk.download("punkt", "application/nltk_data/")
+#nltk.download("punkt", "application/nltk_data/")
 from nltk.stem.lancaster import LancasterStemmer
 stemmer = LancasterStemmer()
 from nltk.stem import WordNetLemmatizer
