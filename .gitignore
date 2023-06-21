@@ -1,2 +1,13 @@
 /env
 *.pyc
+static/.DS_Store
+.DS_Store
+__pycache__
+# environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
