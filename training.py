@@ -8,7 +8,8 @@ import tensorflow
 import random
 import json
 import pickle
-nltk.download('punkt')
+nltk.data.path.append('application/nltk_data/')
+nltk.download("punkt", "application/nltk_data/")
 data = json.loads(open('application/content.json').read())
 try:
   with open("data.pickle", "rb") as f:
