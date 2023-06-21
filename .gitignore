@@ -11,3 +11,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+setup.py
+procfile
+app.wsgi
+vercel.json
+wsgi.py
+.gitattributes
