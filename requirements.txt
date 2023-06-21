@@ -8,3 +8,6 @@ numpy
 python-dotenv
 tensorflow
 tflearn
+wordnet
+pros_cons
+reuters
