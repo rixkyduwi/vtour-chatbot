@@ -1,10 +1,14 @@
 Flask
 Flask-Cors
 Flask-DotEnv
+Flask-Mail
+Flask-Migrate
+Flask-SQLAlchemy
 gunicorn
 keras
 nltk
 numpy
 python-dotenv
+SQLAlchemy
 tensorflow
 tflearn
